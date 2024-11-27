@@ -1,0 +1,81 @@
+{
+ "kobeBlue:Afterburner": {
+ "NAME": "过载推进器",
+ "DESCRIPTION": "对随机敌人造成 !D! 点伤害 X 次。 NL 激发 你所有的 等离子 充能球 。"
+ },
+ "kobeBlue:Hack": {
+ "NAME": "黑客攻击",
+ "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你的充能球栏位不超过 !kobeBlue:SecondMagic! ，获得 1 个充能球栏位。"
+ },
+ "kobeBlue:ScannerBeam": {
+ "NAME": "扫描光束",
+ "DESCRIPTION": "造成 !D! 点伤害，对所有敌人施加 1 层 跟踪锁定 。"
+ },
+ "kobeBlue:TrialAndError": {
+ "NAME": "试错法",
+ "DESCRIPTION": "你的 弃牌 堆中每有 5 张牌，造成 !D! 点伤害。"
+ },
+ "kobeBlue:Convert": {
+ "NAME": "转换",
+ "DESCRIPTION": "如果你有 闪电 充能球 ，移除 NL 最右边的一个并获得 [B] [B] 。 NL 消耗 。",
+ "UPGRADE_DESCRIPTION": "如果你有 闪电 充能球 ，移除最右边的一个 NL 并获得 [B] [B] 。"
+ },
+ "kobeBlue:CloakingShadows": {
+ "NAME": "隐形斗篷",
+ "DESCRIPTION": "如果你有 黑暗 充能球 ， NL 获得 !B! 点 格挡 。 NL 如果没有， NL 获得 2 个 黑暗 充能球 。"
+ },
+ "kobeBlue:GlimmerOfHope": {
+ "NAME": "希望之光",
+ "DESCRIPTION": "如果你的手牌为空， NL 获得 1 个 等离子 充能球 。 NL 抽 !M! 张牌。"
+ },
+ "kobeBlue:Hibernate": {
+ "NAME": "冬眠",
+ "DESCRIPTION": "获得 !M! 个 冰霜 充能球 。 NL 在接下来的 !kobeBlue:SecondMagic! 回合内你不能从卡牌获得 格挡 。"
+ },
+ "kobeBlue:Integrate": {
+ "NAME": "整合",
+ "DESCRIPTION": "获得 !B! 点 格挡 。 NL 如果你有 3 个或以上的充能球栏位，失去 1 个并获得 !kobeBlue:SecondMagic! 层 *多层护甲 。"
+ },
+ "kobeBlue:Juggle": {
+ "NAME": "杂耍",
+ "DESCRIPTION": " 激发 至多 !M! 个充能球，并抽相应数量的牌。",
+ "UPGRADE_DESCRIPTION": "NO ORB NL DETECTED"
+ },
+ "kobeBlue:Polymorphism": {
+ "NAME": "多态性",
+ "DESCRIPTION": "从 !M! 张 *其他角色能力牌 中选择 1 张加入手牌。 NL 在这个回合它的费用减少 1。 NL 消耗 。"
+ },
+ "kobeBlue:Refactor": {
+ "NAME": "重构",
+ "DESCRIPTION": " 预见 !M! 。"
+ },
+ "kobeBlue:Automation": {
+ "NAME": "瞬发",
+ "DESCRIPTION": "获得 !M! 点 集中 。 NL 每当你生成一个充能球时，立即 激发 它。"
+ },
+ "kobeBlue:DebrisCloud": {
+ "NAME": "碎片云",
+ "DESCRIPTION": "每回合第一次 激发 充能球时，将 1 张 *碎片 加入到手牌。"
+ },
+ "kobeBlue:HeavyDuty": {
+ "NAME": "超负荷",
+ "DESCRIPTION": "回合结束时，如果你没有使用任何能力牌， NL 获得 1 层 人工制品 。",
+ "UPGRADE_DESCRIPTION": " 固有 。 NL 回合结束时，如果你没有使用任何能力牌， NL 获得 1 层 人工制品 。"
+ },
+ "kobeBlue:Debris": {
+ "NAME": "碎片",
+ "DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 消耗 。"
+ },
+ "kobeBlue:EvokeOne": {
+ "NAME": " 激发 一",
+ "DESCRIPTION": " 激发 1 个充能球。 NL 抽 1 张牌。"
+ },
+ "kobeBlue:EvokeTwo": {
+ "NAME": " 激发 二",
+ "DESCRIPTION": " 激发 2 个充能球。 NL 抽 2 张牌。"
+ },
+ "kobeBlue:EvokeThree": {
+ "NAME": " 激发 三",
+ "DESCRIPTION": " 激发 3 个充能球。 NL 抽 3 张牌。"
+ }
+}

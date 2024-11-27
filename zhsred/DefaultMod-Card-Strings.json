@@ -1,0 +1,94 @@
+{
+ 
+ "kobeRed:ColossalStrike": {
+ "NAME": "沉重打击",
+ "DESCRIPTION": "对所有敌人造成 !D! 点伤害 。 NL 若抽牌堆、手牌、弃牌堆 之和大于你的卡组牌数，重复这次攻击 。",
+ "EXTENDED_DESCRIPTION": [" (", " 张牌)"," 张牌)"]
+ },
+ 
+ "kobeRed:Infect": {
+ "NAME": "感染",
+ "DESCRIPTION": "将1张 *虚空 加入到手牌 。 NL 抽牌堆、手牌、弃牌堆 每有一种 *状态牌 ，造成 !D! 点伤害 。",
+ "EXTENDED_DESCRIPTION": [" (", " 次)", " 次)"]
+ },
+ 
+ "kobeRed:Incinerate": {
+ "NAME": "焚烧",
+ "DESCRIPTION": "造成 !D! 点伤害 。 NL 预见 !M! ， NL 选择其中2张 消耗 。 NL 消耗 。"
+ },
+ 
+ "kobeRed:Seize": {
+ "NAME": "夺取",
+ "DESCRIPTION": "造成 !D! 点伤害 。 NL 从3张 *非红色稀有牌 中选择1张放到你的抽牌堆顶部 。 NL 消耗 。"
+ },
+ 
+ "kobeRed:Traumatize": {
+ "NAME": "创伤",
+ "DESCRIPTION": "造成 !D! 点伤害 。 NL 将1张 *闪回 放到你的抽牌堆顶部 。"
+ },
+ 
+ "kobeRed:Unleash": {
+ "NAME": "释放",
+ "DESCRIPTION": "将一张 *进阶之灾 加入到手牌 。 NL 抽牌堆、手牌、弃牌堆 每有一种 *诅咒 ，造成 !D! 点伤害 。",
+ "EXTENDED_DESCRIPTION": [" (", " 次)", " 次)"]
+ },
+ 
+ "kobeRed:ArmorOfPain": {
+ "NAME": "痛苦之甲",
+ "DESCRIPTION": "获得 !B! 点 格挡 。 NL 本回合下次受到攻击时，失去 !M! 点生命 。"
+ },
+ 
+ "kobeRed:Bravado": {
+ "NAME": "虚张声势",
+ "DESCRIPTION": " 消耗 1张牌 。 NL 如果它 *已升级 ，获得 !M! 点 力量 。 ",
+ "UPGRADE_DESCRIPTION": "消耗1张牌 。 NL 如果它 *已升级 ， NL 获得 !M! 点 力量 。 NL 如果 *未升级 ，获得 !kobeRed:SecondMagic! 力量 。",
+ "EXTENDED_DESCRIPTION": ["消耗 。"]
+ },
+ 
+ "kobeRed:Cautery": {
+ "NAME": "烧灼",
+ "DESCRIPTION": "将1张 *灼伤+ 放入到你的弃牌堆 。 NL 获得 !M! 层 再生 。 NL 消耗 。",
+ "UPGRADE_DESCRIPTION": "将1张 *灼伤 放入到你的弃牌堆 。 NL 获得 !M! 层 再生 。 NL 消耗 。"
+ },
+ 
+ "kobeRed:Defiant": {
+ "NAME": "挑衅",
+ "DESCRIPTION": "获得 !B! 点 格挡 。 NL 本回合下次受到攻击时，再获得 !B! 点 格挡 。",
+ "EXTENDED_DESCRIPTION": ["获得 !B! 点 格挡 。 NL 本回合下次受到攻击时，获得 !M! 点 格挡 。"]
+ },
+ 
+ "kobeRed:Frenzy": {
+ "NAME": "狂乱",
+ "DESCRIPTION": "抽 !M! 张牌， NL 抽到的牌耗能随机变化。 NL 持续至本回合结束 。"
+ },
+ 
+ "kobeRed:Hotheaded": {
+ "NAME": "热血头脑",
+ "DESCRIPTION": "抽牌直到抽取的牌总费用达到 !M! 。 NL 至多抽 !kobeRed:SecondMagic! 张牌。",
+ "UPGRADE_DESCRIPTION": "抽牌直到抽取的牌总费用达到 !M! 。 "
+ },
+ 
+ "kobeRed:Bloodbath": {
+ "NAME": "血浴",
+ "DESCRIPTION": "将2张 *粘液 加入到手牌 。 NL 获得 [R] [R] 。 NL 消耗 。",
+ "UPGRADE_DESCRIPTION": "将2张 *粘液 加入到手牌 。 NL 获得 [R] [R] [R] 。 NL 消耗 。"
+ },
+ 
+ 
+ "kobeRed:PowerTrip": {
+ "NAME": "暴虐",
+ "DESCRIPTION": "每当你对敌人施加 易伤 或 虚弱 时， NL 获得 !M! 点 活力 。",
+ "UPGRADE_DESCRIPTION": " 固有 。 NL 每当你对敌人施加 易伤 或 虚弱 时， NL 获得 !M! 点 活力 。"
+ },
+ 
+ "kobeRed:ScabScale": {
+ "NAME": "疮痂鳞片",
+ "DESCRIPTION": "每当你失去 *生命 时，获得 !M! 点 格挡 。",
+ "UPGRADE_DESCRIPTION": " 固有 。 NL 每当你失去 *生命 时，获得 !M! 点 格挡 。"
+ },
+
+ "kobeRed:Flashback": {
+ "NAME": "闪回",
+ "DESCRIPTION": " 保留 。 NL 施加 !M! 层 虚弱 。 NL 施加 !M! 层 易伤 。 NL 消耗 。"
+ }
+}

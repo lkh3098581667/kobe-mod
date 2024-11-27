@@ -1,0 +1,14 @@
+{
+ "kobeBlue:InstantEvokePower": {
+ "NAME": "瞬发",
+ "DESCRIPTIONS": ["每当生成一个充能球时，激发它。"]
+ },
+ "kobeBlue:DebrisCloudPower": {
+ "NAME": "碎片云",
+ "DESCRIPTIONS": ["每回合第一次激发充能球时，将 #b", " 张 #y碎片 加入到手牌中。"]
+ },
+ "kobeBlue:HeavyDutyPower": {
+ "NAME": "重负荷",
+ "DESCRIPTIONS": ["如果你的回合内没有使用任何能力牌，获得 #b"," 层 #y人工制品 。"]
+ }
+}

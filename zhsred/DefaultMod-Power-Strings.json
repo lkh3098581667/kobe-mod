@@ -1,0 +1,21 @@
+{
+"kobeRed:ArmorOfPainPower": {
+"NAME": "痛苦之甲",
+"DESCRIPTIONS": ["本回合下次受到攻击时，失去 #b", " 点生命。"]
+},
+
+"kobeRed:DefiantPower": {
+"NAME": "挑战",
+"DESCRIPTIONS": ["本回合下次受到攻击时，获得 #b", " 点 #y格挡 。"]
+},
+
+"kobeRed:PowerTripPower": {
+"NAME": "暴虐",
+"DESCRIPTIONS": ["每当你对敌人施加 #y易伤 或 #y虚弱 时，获得 #b", " 点 #y活力 。"]
+},
+
+"kobeRed:ScabScalePower": {
+"NAME": "疮痂鳞片",
+"DESCRIPTIONS": ["每当你失去 #y生命 时，获得 #b", " 点 #y格挡 。"]
+}
+}
