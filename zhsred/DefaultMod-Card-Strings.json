@@ -2,19 +2,20 @@
  
  "kobeRed:ColossalStrike": {
  "NAME": "沉重打击",
- "DESCRIPTION": "对所有敌人造成 !D! 点伤害 。 NL 若抽牌堆、手牌、弃牌堆 之和大于你的卡组牌数，重复这次攻击 。",
+ "DESCRIPTION": "对所有敌人造成 !D! 点伤害 。 NL 如果 kobered:持有 的卡牌数量大于 kobered:拥有 的卡牌数量，重复这次攻击 。",
  "EXTENDED_DESCRIPTION": [" (", " 张牌)"," 张牌)"]
  },
  
  "kobeRed:Infect": {
  "NAME": "感染",
- "DESCRIPTION": "将1张 *虚空 加入到手牌 。 NL 抽牌堆、手牌、弃牌堆 每有一种 *状态牌 ，造成 !D! 点伤害 。",
+ "DESCRIPTION": "将1张 *虚空 加入到手牌 。 NL 每 kobered:持有 一种 *状态牌 ，造成 !D! 点伤害 。",
  "EXTENDED_DESCRIPTION": [" (", " 次)", " 次)"]
  },
  
  "kobeRed:Incinerate": {
  "NAME": "焚烧",
- "DESCRIPTION": "造成 !D! 点伤害 。 NL 预见 !M! ， NL 选择其中2张 消耗 。 NL 消耗 。"
+ "DESCRIPTION": "造成 !D! 点伤害 。 NL 预见 !M! ， NL 选择其中2张 消耗 。 NL 消耗 。",
+ "EXTENDED_DESCRIPTION": ["选择 ", " 张牌来消耗。"]
  },
  
  "kobeRed:Seize": {
@@ -29,7 +30,7 @@
  
  "kobeRed:Unleash": {
  "NAME": "释放",
- "DESCRIPTION": "将一张 *进阶之灾 加入到手牌 。 NL 抽牌堆、手牌、弃牌堆 每有一种 *诅咒 ，造成 !D! 点伤害 。",
+ "DESCRIPTION": "将一张 *进阶之灾 加入到手牌 。 NL 每 kobered:持有 一种 *诅咒 ，造成 !D! 点伤害 。",
  "EXTENDED_DESCRIPTION": [" (", " 次)", " 次)"]
  },
  
