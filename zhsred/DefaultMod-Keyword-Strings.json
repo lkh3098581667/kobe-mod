@@ -1,3 +1,16 @@
 [
-  
+ {
+ "PROPER_NAME": "拥有",
+ "NAMES": [
+"拥有"
+],
+ "DESCRIPTION": "主牌库的卡牌。"
+ },
+ {
+ "PROPER_NAME": "持有",
+ "NAMES": [
+"持有"
+],
+ "DESCRIPTION": "手牌、抽牌堆、弃牌堆的卡牌。"
+ }
 ]
